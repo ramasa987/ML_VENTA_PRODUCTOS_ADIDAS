@@ -1,6 +1,6 @@
 
 
-# Predicción Venta ADIDAS en Estados Unidos
+# Predicción Venta ADIDAS en Estados Unidos 
 Proyecto orientado a la estimación de ventas de productos de Adidas en EE.UU. mediante Machine Learning.  
 El objetivo es hacer una previsión de ventas lo mas precisa posible para mejorar la producción, reducir el lead time con los retailers, evitar roturas de stock de productos, hacer campañas de marketing orientadas a productos estratégicos de mercado.
 
