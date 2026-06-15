@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="logo_adidas" src="https://github.com/user-attachments/assets/ae40e924-1ff0-4e93-bae8-854d9c98c459" />
 
 
 # Predicción Venta ADIDAS en Estados Unidos 
